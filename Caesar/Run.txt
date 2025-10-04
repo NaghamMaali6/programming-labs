@@ -1,0 +1,2 @@
+1) cd Desktop/Tr/Caesar
+2) py Caesar.py
