@@ -1,0 +1,2 @@
+1) cd Desktop/Tr/ZeroTrace
+2) py ZeroTrace.py
