@@ -1,0 +1,2 @@
+1) cd Desktop/Tr/Vending Machine
+2) py Vending_Machine.py
